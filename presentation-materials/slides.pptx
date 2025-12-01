@@ -24,4 +24,4 @@ for title, body in slides:
     slide.placeholders[1].text = body
 
 prs.save("EU_AI_Act_Overview.pptx")
-print("PPTX saved as EU_AI_Act_Overview.pptx")
+print("PPTX created!")
