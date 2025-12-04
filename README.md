@@ -17,6 +17,6 @@ global AI policy for years to come. The key
 message is clear: innovation and safety can
 coexist when AI is developed responsibly.
 
-## Video Link:
+## Video Link: [Watch here](https://youtu.be/kvr0iwApeo4?si=2liELdVmewN2UFqo)
 
 ## Sources: [Click Here](https://github.com/xGkioka/CEP146PROJECT2/blob/main/research-notes/sources.md)
