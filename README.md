@@ -8,12 +8,15 @@
 - Sapphire Grant[slides]
 
 ## Summary:
-
+EU AI Act is the world’s
+first full legal framework regulating AI
+based on risk, transparency, and safety. It
+protects society while encouraging ethical
+innovation and will strongly influence
+global AI policy for years to come. The key
+message is clear: innovation and safety can
+coexist when AI is developed responsibly.
 
 ## Video Link:
-
-
-## Discussion Question:
-
 
 ## Sources:
