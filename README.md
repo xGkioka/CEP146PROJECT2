@@ -19,4 +19,4 @@ coexist when AI is developed responsibly.
 
 ## Video Link:
 
-## Sources: [Watch here](https://github.com/xGkioka/CEP146PROJECT2/blob/main/research-notes/sources.md)
+## Sources: [Click Here](https://github.com/xGkioka/CEP146PROJECT2/blob/main/research-notes/sources.md)
